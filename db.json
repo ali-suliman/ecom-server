@@ -75,14 +75,14 @@
   ],
   "cart": [
     {
-      "id": "03",
-      "product": "necklace",
+      "id": "04",
+      "product": "bracelet",
       "price": "299",
       "image": "https://placeimg.com/640/480/any"
     },
     {
-      "id": "02",
-      "product": "glasses",
+      "id": "01",
+      "product": "t-shirt",
       "price": "299",
       "image": "https://placeimg.com/640/480/any"
     }
